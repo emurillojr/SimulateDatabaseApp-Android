@@ -1,5 +1,5 @@
 # SimulateDatabaseApp-Android
-Simulate a Database application using Intents <br>
+Simulate a Database application using Intents Lab2<br>
 Modify your Order Entry System part 1 to add the following features <br>
 For the Orders Class <br>
 To pass it between activities, make it Parcelable <br>
